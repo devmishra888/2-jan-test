@@ -1,0 +1,47 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: black;
+    color: white;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+label {
+    display: block;
+    font-weight: bold;
+}
+input, select, button {
+    width: 100%;
+    padding: 15px;
+    margin-top: 5px;
+    
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color: black;
+}
+th{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: white;
+}
+td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: white;
+
+}
+
+.actions button {
+    margin-right: 5px;
+}
